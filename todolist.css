@@ -37,6 +37,7 @@ button{
 }
 .add{
     background-color:dodgerblue;
+    width:70px;
 }
 .Clear{
     background-color:dodgerblue;
@@ -44,7 +45,9 @@ button{
 }
 .Empty{
     background-color:firebrick;
+    width:120px;
 }
 .Save{
     background-color:greenyellow;
+    width:120px;
 }
