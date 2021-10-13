@@ -1,0 +1,50 @@
+body{
+    background-color:chartreuse;
+    display:flex;
+    justify-content: center;
+    margin: 70px;
+}
+h1{
+    margin:0%;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkgray;
+    margin:0%;
+}
+.Container{
+    width:50%;
+    height:50%;
+    border-radius:5%;
+    background-color:white;
+    padding:50px;
+}
+.shado{
+    background-color: #e0ebeb;
+    text-decoration:line-through;
+}
+button{
+    border-radius: 15px;
+    padding: 7px;
+    margin:5px;
+    border:0;
+    padding:10px 15px;
+}
+.buttons{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+}
+.add{
+    background-color:dodgerblue;
+}
+.Clear{
+    background-color:dodgerblue;
+    width:170px;
+}
+.Empty{
+    background-color:firebrick;
+}
+.Save{
+    background-color:greenyellow;
+}
