@@ -41,3 +41,7 @@ p {
 .center {
   text-align: center;
 }
+.center i{
+  padding:4px;
+  border-bottom: goldenrod solid 2px;
+}
