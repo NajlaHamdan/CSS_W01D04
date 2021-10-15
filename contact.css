@@ -1,28 +1,27 @@
-
-.container{
-    width:100%;
-    height:100%;
-    display:flex;
-    flex-direction:row;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-h1{
-    border-block-end: goldenrod;
-    border-bottom:goldenrod 3px;
+h1 {
+  border-block-end: goldenrod;
+  border-bottom: goldenrod solid 3px;
 }
-.left,.right{
-    height: 100%;
-    width: 50%;
-    margin:50px;
-    padding: 10px;
-    
+.left,
+.right {
+  height: 100%;
+  width: 50%;
+  margin: 50px;
+  padding: 10px;
 }
-input{
-    width: 50%;
-    height: 100%;
-    size: 100px;
-    margin:10px
+input {
+  width: 50%;
+  height: 100%;
+  size: 100px;
+  margin: 10px;
 }
-img{
-    margin-top:10%;
+img {
+  margin-top: 10%;
 }
