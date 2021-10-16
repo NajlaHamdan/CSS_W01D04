@@ -6,6 +6,7 @@
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 h1 {
+  display: inline;
   border-bottom: goldenrod solid 3px;
 }
 .left,
@@ -16,11 +17,34 @@ h1 {
   padding: 10px;
 }
 input {
-  width: 50%;
-  height: 100%;
-  size: 100px;
+  width: 40%;
+  padding: 10px;
   margin: 10px;
 }
 img {
   margin-top: 10%;
+  width: 100%;
+  height: 100%;
 }
+button{
+  display: block;
+  background-color: #565950;
+  color:goldenrod;
+  font-size: 20px;
+  margin: 10px;
+  padding: 15px;
+  border: none;
+  border-radius: 7px;
+  width: 20%;
+  cursor: pointer;
+}
+footer {
+  background-color:#565950;
+  color:white;
+  font-size:130%;
+  font-style: bold;
+  text-align: center;
+  padding: 50px;
+  margin: 0% 0%;
+}
+
